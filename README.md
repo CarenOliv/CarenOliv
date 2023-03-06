@@ -18,3 +18,12 @@
 </div>
 
 ##
+  
+<div>
+  <!--Porcentual das lingiagens usadas>
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarenOliv&compact_layout=true"/>-->
+</div>
+  
+<div>
+ <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarenOliv&repo=NOME_DO_REPOSITÓRIO_QUE_DESEJA_SER_MOSTRADO"/>-->  
+</div>
