@@ -1,7 +1,5 @@
 ## Olá 👋😊
 
-
-- 🌱 Atualmente estou aprendendo HTML e CSS
 - 📫 Email: carenoliveira060@gmail.com
 ##
 
