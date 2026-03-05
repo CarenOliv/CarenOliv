@@ -1,4 +1,14 @@
-## Olá 👋😊
+## Olá! Eu sou a Caren Oliveira 👋
+
+*`Técnica em Informática`*
+*`Estudante de Tecnologia em Sistemas para Internet`*
+
+Que tal um pouco sobre mim?
+Me chamo Caren Oliveira, tenho 20 anos e sou cearense. Cursei o ensino médio integrado ao curso técnico em Informática no Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano (IFSertãoPE).
+Atualmente sou estudante do curso superior de Tecnologia em Sistemas para Internet.
+Neste perfil reúno projetos acadêmicos e pessoais que fazem parte da minha evolução como desenvolvedora.
+
+Tenho interesse em desenvolvimento full stack (front-end e back-end), desenvolvimento mobile e em temas relacionados à construção de soluções tecnológicas que possam gerar impacto social e ampliar o acesso à tecnologia. 👩🏻‍💻
 
 - 📫 Email: carenoliveira060@gmail.com
 ##
