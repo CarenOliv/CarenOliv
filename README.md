@@ -5,7 +5,7 @@ _`Estudante de Tecnologia em Sistemas para Internet`_
 
 ### 👩🏻‍💻 Sobre mim
 
-Que tal um pouco sobre mim?
+Sobre mim:
 
 Técnica em Informática e estudante de Tecnologia em Sistemas para Internet no IFSertãoPE, com interesse em desenvolvimento de software e desenvolvimento web.
 
